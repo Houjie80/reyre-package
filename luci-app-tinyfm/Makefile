@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 rayhan (https://github.com/rayhanbone/luci-app-netmonitor)
+# Copyright (C) 2021 rayhan (https://github.com/rayhanbone/luci-app-tinyfm)
 #
 
 include $(TOPDIR)/rules.mk
